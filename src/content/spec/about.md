@@ -1,27 +1,29 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **LiyuCon**，一名热爱技术与生活的开发者。这里是我的个人博客，记录技术成长与日常感悟。
 
 ## 🛠️ 关于本站
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/LiyuCon/Firefly) 模板。Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+- **🌐 站点地址**：[https://liyucon.github.io](https://liyucon.github.io)
+- **⭐ 开源仓库**：[https://github.com/LiyuCon/Firefly](https://github.com/LiyuCon/Firefly)
 
+::github{repo="LiyuCon/Firefly"}
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+## 💻 技术栈
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
+- 前端：Astro、Svelte、TypeScript、Tailwind CSS
+- 后端：Node.js、Python
+- 数据库：MySQL、PostgreSQL、Redis
+- 其他：Docker、Git、Linux
 
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
+## 📫 联系方式
 
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+- GitHub：[@LiyuCon](https://github.com/LiyuCon)
+- Email：[2126592916@qq.com](mailto:2126592916@qq.com)
+- RSS：[/rss/](/rss/)
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
-
+*感谢你的来访！希望在这里能找到对你有用的内容，欢迎随时交流！*
